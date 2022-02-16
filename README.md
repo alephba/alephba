@@ -5,7 +5,7 @@
 💬 Ask me about Economics and Data Science
 
 
-🙇 **Tools:**   
+🙇 **Tools**   
 ![](https://img.shields.io/badge/Python-informational?style=plastic&logo=Python&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/R-informational?style=plastic&logo=R&logoColor=white&color=darkblue)
 ![](https://img.shields.io/badge/SQL-informational?style=plastic&logo=postgresql&logoColor=white&color=teal)
@@ -15,7 +15,6 @@
 
 
 ### Within the :snake: world
-
 ![](https://img.shields.io/badge/Pandas-informational?style=flat&logo=pandas&logoColor=white&color=150458)
 ![](https://img.shields.io/badge/ScikitLearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=red)
 ![](https://img.shields.io/badge/NumPy-informational?style=flat&logo=numpy&logoColor=white&color=013243)
