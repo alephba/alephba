@@ -1,20 +1,24 @@
 ### Hi there 👋
 
+I'm Amir
+
 🌱 Interested in learning more on the intersection of Econometrics and Machine Learning
 
 💬 Ask me about Economics and Data Science
 
 
-🙇 **Tools**   
+🙇 **Tools**
 ![](https://img.shields.io/badge/Python-informational?style=plastic&logo=Python&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/R-informational?style=plastic&logo=R&logoColor=white&color=darkblue)
 ![](https://img.shields.io/badge/SQL-informational?style=plastic&logo=postgresql&logoColor=white&color=teal)
-![](https://img.shields.io/badge/Tableau-informational?style=plastic&logo=Tableau&logoColor=white&color=red) ![](https://img.shields.io/badge/anaconda-informational?style=plastic&logo=anaconda&logoColor=white&color=44A833)![](https://img.shields.io/badge/jupyter-informational?style=plastic&logo=jupyter&logoColor=white&color=F37626)
+![](https://img.shields.io/badge/Tableau-informational?style=plastic&logo=Tableau&logoColor=white&color=red)\
+![](https://img.shields.io/badge/anaconda-informational?style=plastic&logo=anaconda&logoColor=white&color=44A833)
+![](https://img.shields.io/badge/jupyter-informational?style=plastic&logo=jupyter&logoColor=white&color=F37626)
+![](https://img.shields.io/badge/VSCode-informational?style=plastic&logo=visualstudiocode&logoColor=white&color=007ACC)
 
 
 
-
-### Within the :snake: world
+**Within the :snake: world**
 ![](https://img.shields.io/badge/Pandas-informational?style=flat&logo=pandas&logoColor=white&color=150458)
 ![](https://img.shields.io/badge/ScikitLearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=red)
 ![](https://img.shields.io/badge/NumPy-informational?style=flat&logo=numpy&logoColor=white&color=013243)
