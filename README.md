@@ -6,6 +6,7 @@ I'm Amir
 
 💬 Ask me about Economics and Data Science
 
+--- [here](https://github.com/alephba/CV) is my CV
 
 🙇 **Tools**
 
