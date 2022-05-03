@@ -32,7 +32,7 @@ I'm Amir
 [![Linkedin: amirbashiri](https://img.shields.io/badge/Amir%20Bashiri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vikeshkoul/)](https://www.linkedin.com/in/amirbashiri/)
 
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=alephba&hide=prs,issues,contribs&count_private=true&show_icons=true&hide_border=False&theme=vue)](https://github.com/alephba)
-
+<!-- [![github stats](https://github-readme-stats.vercel.app/api?username=alephba&hide=prs,issues,contribs&count_private=true&show_icons=true&hide_border=False&theme=vue)](https://github.com/alephba)
+ -->
 
 
