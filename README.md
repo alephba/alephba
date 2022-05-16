@@ -4,10 +4,10 @@ I'm Amir
 
 🌱 Interested in learning more on the intersection of Econometrics and Machine Learning
 
-💬 Ask me about Economics and Data Science
+💬 Ask me about Economics and Data Science. 
 
---- [here](https://github.com/alephba/CV) is my CV
-
+--- [here](https://github.com/alephba/CV) is my resume
+--- If you're interested in learning python and machine learning check out [Pytopia](https://github.com/pytopia)
 🙇 **Tools**
 
 ![](https://img.shields.io/badge/Python-informational?style=plastic&logo=Python&logoColor=white&color=blue)
