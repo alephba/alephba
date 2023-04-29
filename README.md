@@ -6,9 +6,8 @@ I'm Amir
 
 💬 Ask me about Economics and Data Science.
 
--- [here](https://github.com/alephba/CV) is my resume
-
 -- I'm also a member of [Pytopia](https://github.com/pytopia)
+
 **If you're interested in learning python and machine learning check out [Pytopia](https://www.pytopia.ai/)**
 
 
